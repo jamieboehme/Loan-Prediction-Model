@@ -6,7 +6,7 @@ This is a Python program that builds prediction models from train and test loan 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Pre-requisites
+## Pre-Requisites
 
 The following tools and libraries were used to execute this code. Given your system and versioning, you may experience bugs if there are different versions used.
 
@@ -49,13 +49,13 @@ www.linkedin.com/in/jamieboehme
 
 ## References
 
-#### Code Source: Provided by Analytics Vidhya
+### Code Source: Provided by Analytics Vidhya
      - Loan Prediction Dataset: https://courses.analyticsvidhya.com/courses/take/loan-prediction-practice-problem-using-python/texts/6119325-introduction-to-the-course
      
-#### Data Set: Provided by Analytics Vidhya
+### Data Set: Provided by Analytics Vidhya
      - Train and Test Data Sets: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
      
-#### Documentation:
+### Documentation:
      - Matplotlib documentation: https://matplotlib.org/3.2.1/index.html
      - Pandas documentation: https://pandas.pydata.org/pandas-docs/stable/index.html
      - Scikit Learn documentation: https://scikit-learn.org/stable/index.html
