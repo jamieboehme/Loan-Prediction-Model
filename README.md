@@ -45,6 +45,7 @@ Once this has been completed, you can remove or comment out the "Connect to MS S
 ## Author
 
 Jamie Boehme
+
 www.linkedin.com/in/jamieboehme
 
 ## References
