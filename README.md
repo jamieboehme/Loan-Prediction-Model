@@ -50,16 +50,16 @@ www.linkedin.com/in/jamieboehme
 ## References
 
 ### Code Source: Provided by Analytics Vidhya
-     - Loan Prediction Dataset: https://courses.analyticsvidhya.com/courses/take/loan-prediction-practice-problem-using-python/texts/6119325-introduction-to-the-course
+     + Loan Prediction Dataset: https://courses.analyticsvidhya.com/courses/take/loan-prediction-practice-problem-using-python/texts/6119325-introduction-to-the-course
      
 ### Data Set: Provided by Analytics Vidhya
-     - Train and Test Data Sets: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
+     + Train and Test Data Sets: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
      
 ### Documentation:
-     - Matplotlib documentation: https://matplotlib.org/3.2.1/index.html
-     - Pandas documentation: https://pandas.pydata.org/pandas-docs/stable/index.html
-     - Scikit Learn documentation: https://scikit-learn.org/stable/index.html
-     - Seaborn documentation: https://seaborn.pydata.org/603_ 
-     - PyCharm documentation (to group code): https://www.jetbrains.com/help/pycharm/working-with-source-code.html
+     + Matplotlib documentation: https://matplotlib.org/3.2.1/index.html
+     + Pandas documentation: https://pandas.pydata.org/pandas-docs/stable/index.html
+     + Scikit Learn documentation: https://scikit-learn.org/stable/index.html
+     + Seaborn documentation: https://seaborn.pydata.org/603_ 
+     + PyCharm documentation (to group code): https://www.jetbrains.com/help/pycharm/working-with-source-code.html
 
 
